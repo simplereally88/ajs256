@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm AJ and I like to make web apps. 
+
+> Pronouns: he/him/his
+
 <!--
 **ajs256/ajs256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
